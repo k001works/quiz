@@ -2,13 +2,6 @@
 雑学クイズのスマホアプリです。<br />
 全5問の4択クイズを正解し、Sランクの称号を目指すゲームです。
 
-<p>
-<img src="http://k001-works.sakura.ne.jp/apps/quiz/quiz0.jpg" width="24%" height="auto" />　
-<img src="http://k001-works.sakura.ne.jp/apps/quiz/quiz1.jpg" width="24%" height="auto" />　
-<img src="http://k001-works.sakura.ne.jp/apps/quiz/quiz2.jpg" width="24%" height="auto" />
-<img src="http://k001-works.sakura.ne.jp/apps/quiz/quiz3.jpg" width="24%" height="auto" />
-</p>
-
 ## 遊び方
 > メイン画面
 
@@ -29,9 +22,8 @@
 （S~Eランクの6段階の評価と、正答率、正解数を表示）
 
 ## Android
-http://k001-works.sakura.ne.jp/apps/quiz/app-release.apk
 
-※野良アプリのため、インストールの際は、Android設定画面から以下の設定をONにしてからお試しください。
+※アプリインストールの際は、ビルド生成されたアプリをAndroid設定画面から下記設定をONにしてお試しください。
 
 [設定変更]<br />
 設定　→　ロック画面とセキュリティ　→　提供元不明のアプリ
